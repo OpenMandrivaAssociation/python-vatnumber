@@ -3,7 +3,7 @@
 Summary:	Python module to validate VAT numbers
 Name:		python-%{module_name}
 Version:	1.0
-Release:	7
+Release:	8
 Group:		Development/Python
 License:	GPLv3+
 Url:		http://code.google.com/p/vatnumber/
