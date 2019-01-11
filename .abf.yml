@@ -1,2 +1,4 @@
-sources:
+removed_sources:
   vatnumber-1.0.tar.gz: 76fc9558d9c3870b0651724f9f9c000fac92e8e0
+sources:
+  vatnumber-1.2.tar.gz: 7b19fc1d50c55ce44bebdb987c8d06177de4b833
